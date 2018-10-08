@@ -2,3 +2,9 @@
 - https://www.getpostman.com/apps
 - https://www.sublimetext.com/3
 - https://sendgrid.com/
+- https://rubyonrails.org/
+- https://www.postgresql.org/
+- https://www.mongodb.com/
+- https://redis.io/
+- https://www.rabbitmq.com/
+- https://sidekiq.org/
