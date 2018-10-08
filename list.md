@@ -16,3 +16,5 @@
 - https://newrelic.com/
 - https://rollbar.com/
 - http://haml.info/
+- https://blog.gojekengineering.com/the-go-jek-reading-list-1088712ccc14
+- https://www.vacationlabs.com/haskell/index.html
