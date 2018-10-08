@@ -12,3 +12,6 @@
 - https://www.heroku.com/
 - https://aws.amazon.com/ec2/
 - https://aws.amazon.com/s3/
+- https://papertrailapp.com/
+- https://newrelic.com/
+- https://rollbar.com/
