@@ -9,3 +9,6 @@
 - https://www.rabbitmq.com/
 - https://sidekiq.org/
 - https://www.twilio.com/
+- https://www.heroku.com/
+- https://aws.amazon.com/ec2/
+- https://aws.amazon.com/s3/
