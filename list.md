@@ -18,3 +18,5 @@
 - http://haml.info/
 - https://blog.gojekengineering.com/the-go-jek-reading-list-1088712ccc14
 - https://www.vacationlabs.com/haskell/index.html
+- https://toolbox.google.com/datasetsearch
+- https://github.com/aymericdamien/TensorFlow-Examples/blob/master/notebooks/0_Prerequisite/ml_introduction.ipynb
